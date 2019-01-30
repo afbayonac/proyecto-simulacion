@@ -1,0 +1,15 @@
+{
+  "name": "sim-ant",
+  "version": "1.0.0",
+  "description": "ant simulation searching food ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server public -p 3000  -d"
+  },
+  "author": "afbayonac ...",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
