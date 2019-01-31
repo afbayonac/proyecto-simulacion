@@ -1,0 +1,21 @@
+{
+  "name": "sim-ant",
+  "main": "index.js",
+  "homepage": "https://github.com/afbayonac/proyecto-simulacion",
+  "authors": [
+    "afbayonac <afbayonac@gmail.com>"
+  ],
+  "description": "ant simulation searching foot",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "^5.8.0",
+    "requirejs": "^2.3.6"
+  }
+}
