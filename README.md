@@ -13,8 +13,9 @@ opcionalmente instale [NVM](https://github.com/creationix/nvm) para ser mas feli
 ```bash
   # - first download this repository
   # - in the project path
-  npm i # install all necessary
+  npm install # install all necessary
   cd public
+  npm install bower -g
   bower install # install bower components, front-end packages
   cd ../
   npm start # init the server

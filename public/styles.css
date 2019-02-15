@@ -5,3 +5,9 @@ body {
   width: 100%;
   background-color: #eeeeee;
 }
+
+
+svg {
+  margin-left: 50%;
+  transform: translate(-50%, 0%);
+}
