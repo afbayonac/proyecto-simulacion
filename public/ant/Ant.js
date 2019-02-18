@@ -12,6 +12,10 @@ class Ant {
     this.marcha = marcha
   }
 
+  move () {
+    this.to(0)
+  }
+
   to (dir) {
     console.log(this)
     switch (dir) {
